@@ -1,5 +1,3 @@
-"# Examples" 
-
 README
 
 author: Jacob Link
