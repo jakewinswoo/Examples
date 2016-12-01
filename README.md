@@ -1,6 +1,6 @@
 README
 
-author: Jacob Link
+Author: Jacob Link
 
 CS3013 Project 3
 
