@@ -32,3 +32,7 @@ running and correctly responding to invalid input is included in the typescript 
 
 The source code file is called "proj3.c", and the file to input room parameters is 
 called "rooms".
+
+A room is a single line from the rooms file, in the format "int1 int2", where int1 is the
+room capacity, and int2 is the delay. Spacing per line should not affect the program's ability 
+to read them in. 
